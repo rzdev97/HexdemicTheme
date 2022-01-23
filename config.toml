@@ -10,7 +10,7 @@ defaultContentLanguage = 'en'
     [languages.en.params]
       linkedin = 'https://linkedin.com/whoever'
   [languages.fr]
-    title = ''R.Zorzi Blog'
+    title = 'R.Zorzi Blog'
     weight = 2
     [languages.fr.params]
       linkedin = 'https://linkedin.com/fr/whoever'
